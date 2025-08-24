@@ -1,10 +1,7 @@
 # Task-3
 
-This repo contains screenshots showing file transfer between two virtual machines - a kali box and a metasploitable box. The file is transferred from kali to metasploitable.
-
-Here's the screenshot of the kali terminal.
+This repo contains screenshots showing file transfer between two virtual machines - a kali box and a metasploitable box. The file is transferred from kali to metasploitable. Here's the screenshot of the kali terminal.
 <img width="611" height="323" alt="Screenshot 2025-08-24 194025" src="https://github.com/user-attachments/assets/1c536e87-d8be-4aa7-8835-334e83c937ed" />
-
 
 
 And here's the proof of concept screenshot showing the transferred file in metasploitable.
